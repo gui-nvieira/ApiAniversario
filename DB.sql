@@ -18,4 +18,4 @@ PRIMARY KEY (user_id)
 INSERT INTO users
 (`name`,`email`, `confirm`, `role`)
 VALUES
-('Chester','lelel@gmail.com', True, 'Admin');
+('Chester','lelel@gmail.com', 1, 'admin');
